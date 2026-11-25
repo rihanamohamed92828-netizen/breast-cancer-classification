@@ -1,0 +1,18 @@
+{
+  "Logistic Regression": {
+    "C": 0.1
+  },
+  "Decision Tree": {
+    "max_depth": 2,
+    "min_samples_split": 2
+  },
+  "SVM": {
+    "C": 0.1,
+    "gamma": "scale",
+    "kernel": "linear"
+  },
+  "K-NN": {
+    "n_neighbors": 9,
+    "weights": "uniform"
+  }
+}
